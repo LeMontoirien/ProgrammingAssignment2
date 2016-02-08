@@ -1,7 +1,4 @@
 
-
-## I am sorry but I wasn't able to push my file so I finally copied and pasted as the deadline approach
-## I could send my file from my computer with the timestamp in needed.
 ## function 
 
 ## create a special "matrix" object that can cache its inverse
